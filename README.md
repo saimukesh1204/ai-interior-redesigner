@@ -11,7 +11,3 @@ An AI-powered web app that transforms your room image into a new style (Rich, Vi
 ## 🧠 How It Works
 The app sends your uploaded image and style prompt to Google Gemini’s generative image API, which returns a redesigned version.
 
-## 🧩 Setup
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/<your-username>/ai-interior-redesigner.git
